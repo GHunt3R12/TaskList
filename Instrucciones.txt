@@ -1,0 +1,16 @@
+Paso 1 (Ejecutar Back-End):
+
+cd TasklistBack
+npm i
+npm run dev
+
+Paso 2 (Ejectuar Front-End):
+
+Añadir otra terminal
+cd TaskListFront
+npm i
+npm run dev
+
+Paso 3 (Abrir el navegador):
+
+http://localhost:5173
