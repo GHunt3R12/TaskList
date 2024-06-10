@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  background: rgb(144, 144, 144);
+  background-image: url("https://www.transparenttextures.com/patterns/cubes.png");
+  color: black;
+}
